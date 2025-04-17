@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: '020alf Portfolio',
-  author: 'AT',
-  headerTitle: '020alf',
+  title: 'i1van0va Portfolio',
+  author: 'YA',
+  headerTitle: 'i1van0va',
   description: 'Created with love',
   language: 'en-us',
   theme: 'light', // system, dark or light
@@ -18,7 +18,7 @@ const siteMetadata = {
   // youtube: 'https://youtube.com',
   // linkedin: 'https://www.linkedin.com',
   // threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com/020alf',
+  instagram: 'https://www.instagram.com/i1van0va',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
